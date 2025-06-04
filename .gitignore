@@ -1,0 +1,11 @@
+# Python 基本忽略項目
+__pycache__/
+*.py[cod]
+*.egg
+*.egg-info/
+dist/
+build/
+.env
+.venv
+venv/
+env/
